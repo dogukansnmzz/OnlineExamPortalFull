@@ -1,0 +1,25 @@
+<mat-toolbar>
+  <span>
+      {{title}}
+  </span>
+  <span class="example-spacer"></span>
+  <div *ngIf="!isLogginIn">
+    
+ <button mat-stroked-button routerLink="/login" class="mx-3">
+  Giriş yap
+ </button>
+ <button mat-stroked-button routerLink="/login">
+  Kayıt ol
+ </button>
+  </div>
+
+  <div *ngIf="isLogginIn">
+    <button mat-stroked-button routerLink="/questions" class="mx-3">
+      Sorular
+     </button>
+  </div>
+
+</mat-toolbar>
+
+
+<router-outlet></router-outlet>

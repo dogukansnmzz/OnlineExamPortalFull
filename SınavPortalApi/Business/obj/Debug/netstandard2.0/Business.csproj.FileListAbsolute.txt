@@ -1,0 +1,34 @@
+C:\Users\kocam\source\repos\SınavPortal\Business\obj\Debug\netstandard2.0\Business.csproj.AssemblyReference.cache
+C:\Users\kocam\source\repos\SınavPortal\Business\obj\Debug\netstandard2.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kocam\source\repos\SınavPortal\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\kocam\source\repos\SınavPortal\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\kocam\source\repos\SınavPortal\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\kocam\source\repos\SınavPortal\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\kocam\source\repos\SınavPortal\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\kocam\source\repos\SınavPortal\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\kocam\source\repos\SınavPortal\Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\kocam\source\repos\SınavPortal\Business\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\kocam\source\repos\SınavPortal\Business\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\kocam\source\repos\SınavPortal\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\kocam\source\repos\SınavPortal\Business\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\kocam\source\repos\SınavPortal\Business\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\kocam\source\repos\SınavPortal\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\Users\kocam\source\repos\SınavPortal\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\kocam\source\repos\SınavPortal\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Business\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Business\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Business\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Business\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Business\obj\Debug\netstandard2.0\Business.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Business\obj\Debug\netstandard2.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Business\obj\Debug\netstandard2.0\Business.pdb

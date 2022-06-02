@@ -1,0 +1,26 @@
+<div class="container">
+    <form [formGroup]="questionForm">
+        <div class="m-5">            
+            <input class="form-control" type="text" placeholder="başlık" aria-label="default input example" formControlName="title">
+        </div>
+
+        <div class="m-5">            
+            <input class="form-control" type="text" placeholder="açıklama" aria-label="default input example" formControlName="description">
+        </div>
+
+        <div class="m-5">            
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="invalidCheck"  formControlName="isApproved">
+                <label class="form-check-label text-dark" for="invalidCheck">
+                  Durumu
+                </label>
+              </div>
+              
+        </div>
+
+        <button (click)="add()" class="btn btn-outline-success">
+            Ekle
+        </button>
+
+    </form>
+</div>

@@ -1,0 +1,86 @@
+
+<mat-toolbar>
+    <span>Sınav Portalı</span>
+    <span class="spacer"></span>
+
+    <div class="d-flex justify-content-evenly">
+      <div class="dropdown mx-1" *ngIf="isAdmin">
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButtonm" data-bs-toggle="dropdown" aria-expanded="false">
+          Sayfalar
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButtonm">
+          <li>
+            <button class="dropdown-item" routerLink="/">
+              Ana sayfa
+          </button>
+          <li>
+            <button class="dropdown-item" routerLink="/panel">
+             Panel Ana sayfa
+          </button>
+         </li>
+          <li>
+            <button class="dropdown-item" routerLink="/panel/user-operation-claim/list">
+             Kullanıcıların Rolleri
+          </button>
+         </li>
+
+          <li>
+            <button class="dropdown-item" routerLink="/panel/question/list">
+             Sorular
+          </button>
+         </li>
+
+          <li>
+            <button class="dropdown-item" routerLink="/panel/answer/list">
+            Cevaplar
+
+          </button>
+         </li>
+
+         
+         <li>
+           <button class="dropdown-item" routerLink="/panel/operation-claim/list" >
+             Roller
+         </button>
+        </li>
+
+
+        <li>
+         <button class="dropdown-item" routerLink="/panel/users" >
+           Kullanıcılar
+       </button>
+      </li>
+        </ul>
+      </div>
+
+      <div class="dropdown mx-1">
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+          Ekleme işlemleri
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+          <li><button class="dropdown-item" routerLink="/panel/operation-claim/add">Rol</button></li>
+          <li><button class="dropdown-item" routerLink="/panel/user-operation-claim/add">Kullanıcı Rolu</button></li>
+          <li><button class="dropdown-item" routerLink="/panel/question/add">Soru</button></li>
+        </ul>
+      </div>
+
+
+      <button mat-button class="example-icon favorite-icon" aria-label="Example icon-button with heart icon" routerLink="/login" *ngIf="!isLogginIn">
+        Giriş yap
+    </button>
+    <button mat-button class="example-icon" aria-label="Example icon-button with share icon" routerLink="/register" *ngIf="!isLogginIn">
+        Kayıt Ol
+    </button>  
+      
+  
+    <button mat-stroked-button (click)="logout()" color="warn" class="example-icon favorite-icon" aria-label="Example icon-button with heart icon"  *ngIf="isAdmin">
+     {{currentUserEmail}} / Çıkış yap
+     </button>
+   
+    </div>
+      
+
+  
+  </mat-toolbar>
+
+<router-outlet></router-outlet>

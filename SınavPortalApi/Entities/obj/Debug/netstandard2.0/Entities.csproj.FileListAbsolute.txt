@@ -1,0 +1,26 @@
+C:\Users\kocam\source\repos\SınavPortal\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\kocam\source\repos\SınavPortal\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\kocam\source\repos\SınavPortal\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\kocam\source\repos\SınavPortal\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\kocam\source\repos\SınavPortal\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\kocam\source\repos\SınavPortal\Entities\obj\Debug\netstandard2.0\Entities.csproj.AssemblyReference.cache
+C:\Users\kocam\source\repos\SınavPortal\Entities\obj\Debug\netstandard2.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kocam\source\repos\SınavPortal\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\kocam\source\repos\SınavPortal\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\kocam\source\repos\SınavPortal\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\kocam\source\repos\SınavPortal\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\kocam\source\repos\SınavPortal\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\kocam\source\repos\SınavPortal\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Entities\obj\Debug\netstandard2.0\Entities.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Entities\obj\Debug\netstandard2.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Entities\obj\Debug\netstandard2.0\Entities.pdb

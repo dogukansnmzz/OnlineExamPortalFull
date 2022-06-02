@@ -1,0 +1,19 @@
+C:\Users\kocam\source\repos\SınavPortal\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\kocam\source\repos\SınavPortal\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\kocam\source\repos\SınavPortal\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\kocam\source\repos\SınavPortal\Core\obj\Debug\netstandard2.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kocam\source\repos\SınavPortal\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\kocam\source\repos\SınavPortal\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\kocam\source\repos\SınavPortal\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\kocam\source\repos\SınavPortal\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\kocam\source\repos\SınavPortal\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Core\obj\Debug\netstandard2.0\Core.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Core\obj\Debug\netstandard2.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\mehme\OneDrive\Masaüstü\Sınav Portalı\SınavPortal\SınavPortal\Core\obj\Debug\netstandard2.0\Core.pdb

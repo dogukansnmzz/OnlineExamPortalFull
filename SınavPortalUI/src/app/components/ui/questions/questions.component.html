@@ -1,0 +1,15 @@
+<div *ngFor="let q of questions">
+<div class="card" *ngIf="q.isApproved">
+    <div class="card-body">
+      <h5 class="card-title">
+          {{q.title}}
+      </h5>
+      <p class="card-text">
+          {{q.description}}
+      </p>
+      <div class="d-flex justify-content-center">
+        <button mat-button routerLink="/question-detail/{{q.id}}"> İncele</button>
+      </div>
+    </div>
+  </div>
+</div>

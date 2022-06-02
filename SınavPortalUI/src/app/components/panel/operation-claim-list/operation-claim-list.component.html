@@ -1,0 +1,32 @@
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                İsim
+            </th>
+            <th>
+                Durum
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let operationClaim of operationClaims">
+            <td>
+                {{
+                    operationClaim.name
+                }}
+            </td>
+
+            <td>
+                {{
+                    operationClaim.isApproved === true ? 'aktif' : 'aktif değil'
+                }}
+            </td>
+
+            <td >
+                <button mat-button color="warn" (click)="delete(operationClaim)">Sil</button>
+            </td>
+        </tr>
+    </tbody>
+</table>

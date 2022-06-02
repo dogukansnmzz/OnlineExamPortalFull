@@ -1,0 +1,19 @@
+<div class="container">
+    
+    <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">
+              {{title}}
+          </h5>
+          <p class="card-text">
+              {{description}}
+          </p>
+          
+        </div>
+      </div>
+
+<div class="m-2">            
+    <input class="form-control" type="text" placeholder="Cevap" aria-label="default input example" [(ngModel)]="value" >
+    </div>
+  <button  class="btn btn-primary" (click)="send()">Gönder</button>
+</div>
